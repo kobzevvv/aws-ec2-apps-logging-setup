@@ -1,5 +1,6 @@
 # AWS CLI Configuration and Usage Guide
 
+
 ## Prerequisites
 Before you start using AWS CLI, ensure you have the following:
 - An AWS account

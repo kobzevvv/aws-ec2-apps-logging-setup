@@ -13,5 +13,6 @@ This repository provides code templates and a step-by-step guide to automaticall
 - Create IAM Role for EC2 Logging
 - Update Environment to Use the Role
 - Set Monitoring & Log Destination
-- Deploy CloudFormation for Auto Setup
-- Run Tests: Ensure All Instances Send Logs
+- Deploy lambda logging setup checker for Auto Setup
+- logs quering examples
+- long term logs storage in anaklyticsl database
